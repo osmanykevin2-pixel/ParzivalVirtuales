@@ -1,4 +1,5 @@
 ConfigParser
+pyTelegramBotAPI
 HTMLParser
 IPython
 OpenSSL
